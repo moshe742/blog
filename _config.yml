@@ -30,7 +30,7 @@ twitter_username: moshe742
 github_username:  moshe742
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
