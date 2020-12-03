@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 היי, אני משה נחמיאס, למדתי עצמאית תכנות וכל מה שקשור לעולם המחשבים בערך, מענין אותי תיכנות, קוד פתוח ותוכנה חופשית, חומרה ועוד
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
