@@ -32,6 +32,7 @@ lang: he-IL
 # Build settings
 # theme: jekyll-theme-hacker
 theme: minima
+languages: ["he"]
 plugins:
   - jekyll-feed
   - i18n
