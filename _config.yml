@@ -33,6 +33,7 @@ lang: he-IL
 # theme: jekyll-theme-hacker
 theme: minima
 languages: ["he"]
+default_locale_in_subfolder: true
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
