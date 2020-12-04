@@ -28,12 +28,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.moshe742.name" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moshe742
 github_username:  moshe742
-
+lang: he-IL
 # Build settings
 # theme: jekyll-theme-hacker
 theme: minima
 plugins:
   - jekyll-feed
+  - i18n
 
 # Exclude from processing.
 # The following items will not be processed, by default.
