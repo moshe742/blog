@@ -35,7 +35,7 @@ theme: minima
 languages: ["he"]
 plugins:
   - jekyll-feed
-  - i18n
+  - jekyll-multiple-languages-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
