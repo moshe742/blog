@@ -32,11 +32,9 @@ lang: he-IL
 # Build settings
 # theme: jekyll-theme-hacker
 theme: minima
-languages: ["he"]
-default_locale_in_subfolder: true
+
 plugins:
   - jekyll-feed
-  - jekyll-multiple-languages-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
