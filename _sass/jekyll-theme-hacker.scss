@@ -171,6 +171,10 @@ pre {
   overflow-y: hidden;
 }
 
+pre {
+  direction: ltr;
+}
+
 code.highlighter-rouge {
   background: rgba(0,0,0,0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
@@ -186,7 +190,7 @@ table {
 }
 
 th {
-  text-align: left; // TODO: check tables
+  text-align: right; // TODO: check tables
   border-bottom: 1px dashed #b5e853;
   padding: 5px 10px;
 }
@@ -230,8 +234,8 @@ hr {
   display: inline-block;
   width: 16px;
   height: 16px;
-  margin: 1px 8px 0 0;
-  float: left; // TODO: check this!
+  margin: 1px 0 0 8px;
+  float: right;
 }
 
 .btn-github .icon {

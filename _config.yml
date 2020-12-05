@@ -21,14 +21,13 @@
 title: הבלוג של משה
 email: moshegrey AT gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  זהו הבלוג שלי, אני משה נחמיאס, מפתח תוכנה וגיק, אכתוב פה בעיקר על תוכנה ונושאים אחרים בעולם מדעי המחשב, אם אתם רוצים לקרוא יותר עלי אפשר בעמוד ה-<a href="/about/">אודות</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.moshe742.name" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moshe742
 github_username:  moshe742
 lang: he-IL
+author: משה נחמיאס
 # Build settings
 # theme: jekyll-theme-hacker
 theme: minima
