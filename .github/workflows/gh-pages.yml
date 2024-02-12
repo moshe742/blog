@@ -36,7 +36,7 @@ jobs:
         run: |
           cd moshe742_blog
           ../code-maven web
-          cp images/* _site/images/
+#          cp images/* _site/images/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
